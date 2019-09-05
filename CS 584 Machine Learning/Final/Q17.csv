@@ -1,0 +1,21 @@
+﻿Customer,Delivery,Discount,Response
+1,Store Pick-up,0.15,No
+2,Free Shipping,0.05,No
+3,Free Shipping,None,Yes
+4,Store Pick-up,0.05,Yes
+5,Standard Shipping,0.15,Yes
+6,Standard Shipping,0.15,No
+7,Store Pick-up,None,No
+8,Free Shipping,0.15,No
+9,Standard Shipping,None,Yes
+10,Store Pick-up,0.05,Yes
+11,Store Pick-up,0.05,Yes
+12,Standard Shipping,0.05,Yes
+13,Free Shipping,None,No
+14,Standard Shipping,0.05,No
+15,Store Pick-up,0.15,No
+16,Store Pick-up,0.05,Yes
+17,Standard Shipping,None,No
+18,Free Shipping,0.05,Yes
+19,Standard Shipping,None,Yes
+20,Free Shipping,0.15,No
